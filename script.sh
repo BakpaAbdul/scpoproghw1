@@ -9,7 +9,7 @@ set -e
 # Here is a list of tasks for you.
 
 # 0. Tell me who worked on this together
-echo "student 1"   # please fill in names here
+echo "Abdul"   # please fill in names here
 echo "student 2"
 
 # 1. Go to your home directory: 
